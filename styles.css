@@ -12,3 +12,22 @@ h1 {
     color:red;
     font-size:96px;
 }
+
+.funParagraph {
+    color: green;
+}
+
+#testP {
+    color: green;
+    font-family: "Thriller";
+    font-size: 18px;
+    text-align: right;
+    padding: 75px;
+}
+
+footer {
+    color: black;
+    font-family: "Futura";
+    font-size: 14px;
+    text-align: center;
+}
