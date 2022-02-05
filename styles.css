@@ -5,11 +5,18 @@ body {
     font-size: 17px;
     font-weight: bold;
     background-color: grey;
+    text-align: center;
 }
 
 h1 {
     text-align:center;
     color:black;
+}
+
+h2,h3,h4 {
+    text-align: center;
+    color: blue;
+    font-size: 20px;
 }
 
 #mainHeading {
@@ -26,7 +33,7 @@ h1 {
     font-family: "Futura";
     font-size: 18px;
     text-align: right;
-    padding: 75px;
+    padding: 95px;
 }
 
 footer {
@@ -37,5 +44,9 @@ footer {
 }
 
 #video {
-    padding: 90px;
+    padding: 20px;
+}
+
+article{
+    text-align: left;
 }
