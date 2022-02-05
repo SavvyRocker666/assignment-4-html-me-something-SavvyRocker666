@@ -1,6 +1,10 @@
 body {
     margin: 8px;
     display: block;
+    font-style: italic;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: grey;
 }
 
 h1 {
@@ -19,7 +23,7 @@ h1 {
 
 #testP {
     color: green;
-    font-family: "Thriller";
+    font-family: "Futura";
     font-size: 18px;
     text-align: right;
     padding: 75px;
@@ -30,4 +34,8 @@ footer {
     font-family: "Futura";
     font-size: 14px;
     text-align: center;
+}
+
+#video {
+    padding: 90px;
 }
