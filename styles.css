@@ -17,11 +17,16 @@ h2,h3,h4 {
     text-align: center;
     color: blue;
     font-size: 20px;
+    text-shadow: 1px 1px 1px black,
+    2px 2px 2px black;
+  
 }
 
 #mainHeading {
     color:red;
     font-size:96px;
+    text-shadow: 3px 3px 3px black,
+    5px 5px 5px black;
 }
 
 .funParagraph {
@@ -50,3 +55,4 @@ footer {
 article{
     text-align: left;
 }
+
